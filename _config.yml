@@ -1,0 +1,6 @@
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+title: Iconicompany — AI Talent Marketplace
+description: AI-агенты заменяют рекрутинг. Векторный поиск, скоринг навыков, точный найм.
