@@ -4,3 +4,7 @@ plugins:
 
 title: Iconicompany — AI Talent Marketplace
 description: AI-агенты заменяют рекрутинг. Векторный поиск, скоринг навыков, точный найм.
+
+# Giscus comments (https://giscus.app)
+# data-repo-id and data-category-id are set in _includes/giscus.html
+# To disable comments on a specific page, add `comments: false` to its front matter.
